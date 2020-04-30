@@ -1,6 +1,7 @@
 # Pong2D
-This is one of my submission for Dicoding course about developing  games for beginner.
-The gameplay is very simple and so classic, you just try to pass the ball back to enemy, try to scores some goals, and prevent enemy to have some goals
+This is one of my submission for Dicoding course about developing  games for beginner.\n
+The gameplay is very simple and so classic\n
+You just try to pass the ball back to enemy, try to scores some goals, and prevent enemy to have some goals\n
  
  
  Screenshot dalam game:
