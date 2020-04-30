@@ -1,7 +1,7 @@
 # Pong2D
 This is one of my submission for Dicoding course about developing  games for beginner.<br>
 The gameplay is very simple and so classic.<br>
-You just try to pass the ball back to enemy, try to scores some goals, and prevent enemy to have some goals.<br>
+You just try to pass the ball back to the enemy, then try to scores some goals, and prevent enemy to have some goals.<br>
  
  
  Screenshot dalam game:
