@@ -4,7 +4,7 @@ The gameplay is very simple and so classic.<br>
 You just try to pass the ball back to the enemy, then try to scores some goals, and prevent enemy to have some goals.<br>
  
  
- Screenshot dalam game:
+ What is inside:
  
 ![Credit](https://github.com/alexivaner/Pong2D-Covid19-Series/blob/master/Screenshots/Credit.png)
 ![Menu Utama](https://github.com/alexivaner/Pong2D-Covid19-Series/blob/master/Screenshots/Menu%20Utama.png)
